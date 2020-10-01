@@ -1,6 +1,6 @@
 # Millennial
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/).
+Millennial is a minimalist Jekyll theme for running a simple, clean and content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/).
 
 ![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
 
@@ -52,7 +52,7 @@ Millennial is a minimalist Jekyll theme for running a simple, clean, content-foc
 
 ## Introduction
 
-Millennial is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+Millennial is a Jekyll theme which was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
 
 ### What is Jekyll?
 
@@ -120,7 +120,7 @@ In the `settings.yml` file found in the `_data` folder, you will be able to cust
 
 ### Adding Menu Pages
 
-The menu pages are found in the `menu` folder in the root directory, and can be added to your menu in the `settings.yml` file.
+The menu pages can be found in the `menu` folder in the root directory, and can be added to your menu in the `settings.yml` file.
 
 ### Posts
 
